@@ -1,0 +1,12 @@
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\bin\Debug\net5.0\GrossMarketApp.Core.deps.json
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\bin\Debug\net5.0\GrossMarketApp.Core.dll
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\bin\Debug\net5.0\ref\GrossMarketApp.Core.dll
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\bin\Debug\net5.0\GrossMarketApp.Core.pdb
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\obj\Debug\net5.0\GrossMarketApp.Core.csprojAssemblyReference.cache
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\obj\Debug\net5.0\GrossMarketApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\obj\Debug\net5.0\GrossMarketApp.Core.AssemblyInfoInputs.cache
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\obj\Debug\net5.0\GrossMarketApp.Core.AssemblyInfo.cs
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\obj\Debug\net5.0\GrossMarketApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\obj\Debug\net5.0\GrossMarketApp.Core.dll
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\obj\Debug\net5.0\ref\GrossMarketApp.Core.dll
+C:\Users\CANER\Desktop\Software\GrossMarketApp\GrossMarketApp.Core\obj\Debug\net5.0\GrossMarketApp.Core.pdb
