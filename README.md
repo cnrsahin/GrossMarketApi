@@ -30,6 +30,8 @@ appsettings.json dosyasında Connection String'i kendinize göre düzenleyiniz.
 
 Powershell'den ya da Package Manager Console'dan update database yaparak database'i oluşturunuz.
 
+Swagger: localhost/swagger/index.html
+
 ------------------------------
 
 # Kullanımı
