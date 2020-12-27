@@ -1,7 +1,5 @@
 # Gross Market App Project .NET 5.0
 
-A Web Api project where a gross market can manage its products, customers, employees and suppliers.
-
 Bir gross marketin kendi içinde ürünlerini, müşterilerini, çalışanlarını ve tedarikçilerini yönetebileceği bir Web Api projesi.
 
 
@@ -54,6 +52,8 @@ DELETE /api/categories/delete-all Birden fazla kategori ID'si body'e yazılarak 
 
 UPDATE /api/categories Güncelleme için Id, CategoryName, Note gönderilmelidir.
 
+GET /api/categories/search/categoryName Kategori adı vererek çoklu arama yapılabilir.
+
 ------------------------------
 
 
@@ -65,6 +65,8 @@ GET /api/products/id/category ID'ye gore ürünün ait olduğu kategoriyi verir.
 
 GET /api/products/id/supplier ID'ye gore ürünün ait olduğu tedarikçiyi verir.
 
+GET /api/products/search/productName Product adı vererek çoklu arama yapılabilir.
+
 Güncelleme ve Ekleme işlemlerinde gerekli olan veriler: Id(güncellemede), ProductName, Stock, Price, CategoryId, SupplierId, Note 
 
 ------------------------------
@@ -72,19 +74,21 @@ Güncelleme ve Ekleme işlemlerinde gerekli olan veriler: Id(güncellemede), Pro
 
 Tedarikçiler:
 
-
 Diğerlerinden farklı olarak:
 
 GET /api/suppliers/id/products ID'ye gore tedarikçiye ait ürünleri verir.
+
+GET /api/suppliers/search/supplierName Tedarikçi adı vererek çoklu arama yapılabilir.
 
 Güncelleme ve Ekleme işlemlerinde gerekli olan veriler: Id(güncellemede), SupplierName, SupplierPhoneNumber, SupplierAddress, SupplierEmailAddress, Note
 
 ------------------------------
 
-Çalışanlar:
-/api/employees
+Çalışanlar: /api/employees
 
 Diğerlerinden farklı olarak: 
+
+GET /api/employees/search/employeeName Çalışan adı vererek çoklu arama yapılabilir.
 
 Güncelleme ve Ekleme işlemlerinde gerekli olan veriler: Id(güncellemede), EmployeeName, EmployeeAge, EmployeeSalary, EmployeeAddress, EmployeePhoneNumber, EmployeeJob
 
@@ -95,5 +99,6 @@ Güncelleme ve Ekleme işlemlerinde gerekli olan veriler: Id(güncellemede), Emp
 
 Diğerlerinden farklı olarak: 
 
+GET /api/membercustomers/search/membercustomerName Müşteri adı vererek çoklu arama yapılabilir.
+
 Güncelleme ve Ekleme işlemlerinde gerekli olan veriler: Id(güncellemede), MemberCustomerName, MemberCustomerAge, MemberCustomerPhoneNumber, Note
-# GrossMarketApi
