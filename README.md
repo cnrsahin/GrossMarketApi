@@ -1,6 +1,6 @@
 # Gross Market App Project .NET 5.0
 
-Bir gross marketin kendi içinde ürünlerini, müşterilerini, çalışanlarını ve tedarikçilerini yönetebileceği bir Web Api projesi.
+Bir gross marketin ürünlerini, müşterilerini, çalışanlarını ve tedarikçilerini yönetebileceği Web Api projesi.
 
 
 Kullandığım teknolojiler:
