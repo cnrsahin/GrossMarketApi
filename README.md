@@ -50,7 +50,7 @@ DELETE /api/categories/id ID'ye göre kategoriyi siler.
 
 DELETE /api/categories/delete-all Birden fazla kategori ID'si body'e yazılarak silme işlemi yapılır.
 
-UPDATE /api/categories Güncelleme için Id, CategoryName, Note gönderilmelidir.
+PUT /api/categories Güncelleme için Id, CategoryName, Note gönderilmelidir.
 
 GET /api/categories/search/categoryName Kategori adı vererek çoklu arama yapılabilir.
 
