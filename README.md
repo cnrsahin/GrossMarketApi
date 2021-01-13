@@ -3,8 +3,6 @@
 Bir gross marketin ürünlerini, müşterilerini, çalışanlarını ve tedarikçilerini yönetebileceği Web Api projesi.
 
 
-Kullandığım teknolojiler:
-
 
 .NET 5.0 Core Web APi
 
