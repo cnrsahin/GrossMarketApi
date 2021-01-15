@@ -17,7 +17,6 @@ namespace GrossMarketApp.Api.Dtos.Employees
 
         [DisplayName("Çalışan Yaşı")]
         [Required(ErrorMessage = "{0} boş geçmeyiniz")]
-        [MaxLength(3, ErrorMessage = "{0} {1} karakterden büyük olmamalıdır.")]
         public int EmployeeAge { get; set; }
         public decimal EmployeeSalary { get; set; }
         public string EmployeeAddress { get; set; }
